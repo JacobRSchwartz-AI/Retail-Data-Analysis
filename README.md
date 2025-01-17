@@ -30,10 +30,14 @@ The program expects a CSV file (purchases.csv) with the following columns:
    ```bash
    # Create virtual environment
    python -m venv venv
+   ```
 
+   ```bash
    # Activate virtual environment
    # On Windows
    venv\Scripts\activate
+   ```
+   ```bash
    # On Mac/Linux
    source venv/Scripts/activate
    ```
