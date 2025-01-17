@@ -35,7 +35,7 @@ The program expects a CSV file (purchases.csv) with the following columns:
    # On Windows
    venv\Scripts\activate
    # On Mac/Linux
-   source venv/bin/activate
+   source venv/Scripts/activate
    ```
 
 2. Install dependencies:
